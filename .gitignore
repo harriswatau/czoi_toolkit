@@ -10,7 +10,8 @@ dist/
 build/
 *.db
 *.log
-.env
+.venv_czoi/
+.vscode/
 venv/
 env/
 .coverage
