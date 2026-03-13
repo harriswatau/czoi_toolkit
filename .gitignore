@@ -15,9 +15,6 @@ build/
 venv/
 env/
 
-.gitignore
-.github/
-
 .coverage
 htmlcov/
 .pytest_cache/
